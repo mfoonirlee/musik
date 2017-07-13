@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "build": "cortex install --stable-only && gulp webpack",
+        "postpublish": ""
+    },
+    "dist": "./dist",
+    "output": "./html",
+    "urlPrefix": "./",
+    "static-src": "static",
+    "env": "dev"
+}
