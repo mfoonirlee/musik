@@ -1,7 +1,7 @@
 ## musik
 ## 构建
 
-#### webpack+cortex+es6+less
+#### webpack+es6+less
 
 ```sh
 cd /path/of/your/project
@@ -19,7 +19,7 @@ webpack --watch
 通过`webpack-dev-server`开启本地web server服务器，支持自动构建，支持热部署Hot Module Replacement (HMR)，即每次修改完代码`webpack-dev-server`会自动build并让浏览器自动载入被修改过的模块，开发者无需手动刷新浏览器。
 
 
-#### webpack+cortex+es6+less
+#### webpack+es6+less
 ```sh
 npm start
 ```
