@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "build": "cortex install --stable-only && gulp webpack",
+        "build": "gulp webpack",
         "postpublish": ""
     },
     "dist": "./dist",
